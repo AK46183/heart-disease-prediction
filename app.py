@@ -10,7 +10,7 @@ expected_columns = joblib.load("heart_columns.pkl")
 
 
 # Streamlit Webpage Layout
-st.title("Heart Stroke Prediction by AK❤️")
+st.title("Heart Stroke Prediction by AK")
 st.subheader("Please enter patient data:")
 
 
